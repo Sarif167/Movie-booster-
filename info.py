@@ -10,7 +10,7 @@ MONGO_URI = os.environ.get("MONGO_URI", "mongodb+srv://technicalseekho249_db_use
 ADMINS = [1249672673]
 
 LOG_CHANNEL = -1002580860502
-CHANNEL_ID = -1002133932311
+CHANNEL_ID = -1002904920278
 
 FSUB_CHANNEL = "MovieSearchAutoGroup"
 
